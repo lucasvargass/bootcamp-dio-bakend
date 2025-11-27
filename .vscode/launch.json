@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RodarAplicacao01",
+            "request": "launch",
+            "mainClass": "lucasvargas.bootcampinter.POO.Herança.PolimorfismoSobrescrita.RodarAplicacao01",
+            "projectName": "bootcamp-dio-backend_e189359b"
+        },
+        {
+            "type": "java",
+            "name": "RodarAplicacao",
+            "request": "launch",
+            "mainClass": "lucasvargas.bootcampinter.POO.Herança.RodarAplicacao",
+            "projectName": "bootcamp-dio-backend_e189359b"
+        },
+        {
+            "type": "java",
             "name": "RodarAplicacaoCarro",
             "request": "launch",
             "mainClass": "lucasvargas.bootcampinter.POO.RodarAplicacaoCarro",
